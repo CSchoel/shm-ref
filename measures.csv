@@ -1,0 +1,27 @@
+RMSE RR-interval spectral density;4.260535984998396e-06
+low frequency band power (lf);2.8201592690484207e-06
+high frequency band power (hf);0.0009519966632068029
+lf/hf ratio;0.0029623625565542507
+total spectral power;0.0011721739212599306
+heart rate;61.26315789473684
+min RR;0.929921
+max RR;1.02861
+std RR (sdnn);34.17641867735512
+rmssd;47.67711844765267
+sample entropy;0.08275396102891237
+lyapunov exponent (Eckmann);-0.0011860568774864078
+lyapunov exponent (Rosenstein);-0.0014237123769479624
+hurst exponent;-0.0033744014773248177
+correlation dimension;1.03641303942723
+hurst parameter (DFA);0.05832496190273415
+Poincare SD1;0.03369604924618147
+Poincare SD2;0.034890762297760815
+Poincare SD1/SD2;0.9657584709275321
+MAP;106.79212546547008
+min pressure;74.96927975835713
+max pressure;140.90809495854836
+std pressure;18.61048328891968
+RMSE pressure histogram;0.0028228015100067788
+RMSE RR-interval histogram;0.0013339922576796291
+HRV triangular index;5.368421052631579
+simulation time;7.017443463
